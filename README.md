@@ -1,4 +1,4 @@
-# python fun project
+# CV - python fun project
 
 ## Installation
 run 'python install -r requriements.txt'
